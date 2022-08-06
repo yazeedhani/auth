@@ -1,2 +1,0 @@
-# auth
-Auth using JWT
